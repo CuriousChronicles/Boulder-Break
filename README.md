@@ -1,3 +1,7 @@
 # Boulder-Break
+2022 ENGGEN 131 Assignment
 
-Project Description to come ...
+### Description 
+C project, the goal of the game is to escape a cave. You can move borders to help you escape.
+
+### Features
